@@ -1,7 +1,7 @@
 # Setup Logging Bucket
 
 resource "aws_s3_bucket" "log_bucket" {
-  bucket = "logs-ctl-static-website-devops"
+  bucket = "logs-ctl-static-website-devops-1"
 }
 
 
